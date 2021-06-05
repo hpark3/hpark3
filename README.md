@@ -33,4 +33,3 @@ I graduated from University of Liverpool in England with a degree in Business An
 
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpark3&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hpark3&repo=github-readme-stats)](https://github.com/hpark3/github-readme-stats)
