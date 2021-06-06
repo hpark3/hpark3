@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Helen Park, a data analyst/web developer residing in Seoul, South Korea.  
-I graduated from University of Liverpool in England with a degree in Business Analytics & Big data, Master of Science.  
+I graduated from University of Liverpool in England with a degree in ***Business Analytics & Big Data***, Master of Science.  
   <br/>
 - 🤔 I’m looking for a full-time Software Engineering or Data Analytics opportunities.
 - 🔭 I’m currently learning more about data science as part of an internship programme through the analysis of public big data for one of the government corporations/organizations in Seoul.
