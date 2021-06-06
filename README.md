@@ -19,9 +19,9 @@ I'm Helen Park, a data analyst/web developer residing in Seoul, South Korea.
 I graduated from University of Liverpool in England with a degree in Business Analytics & Big data, Master of Science.  
   <br/>
 - 🤔 I’m looking for a full-time Software Engineering or Data Analytics opportunities.
-- 🔭 I’m currently learning more about data science as part of the internship programme for public big data analysis of one of government corporations/organizations in Seoul.
-- 👯 I'm currently working on a web-service application development using Korean tourism data to challenge for the 2021 tourism data utilization award & competition hosted and sponsored by Kakao x Korea Tourism Organisation.
-- 💬 Want to know more about me? feel free to visit my portfolio website or blog.   
+- 🔭 I’m currently learning more about data science as part of an internship programme through the analysis of public big data for one of the government corporations/organizations in Seoul.
+- 👯 I'm currently working on a web-service application development using Korean tourism data to challenge for the ***2021 tourism data utilization award & competition*** hosted and sponsored by ___Kakao x Korea Tourism Organisation___.
+- 💬 Want to know more about me? Feel free to visit my portfolio website or blog.   
       <br/>
       **My Portfolio**: https://hpark3.github.io/WebPortfolio/  
       **My Blog**: https://hpark3.tistory.com/    
