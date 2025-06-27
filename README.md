@@ -8,25 +8,26 @@
 
 <br>
 
-## 🛠️ Tech Stack
-
-**Languages & Tools**  
+<div align="center">
+  
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</div>
 
 <br>
 
 ## 🧠 About Me
 
-🎓 M.S. in Business Analytics (UK) | 🎓 Hospitality & Data Background  
-📈 3+ years experience optimizing CRM platforms, automating reporting flows, and building user-centric dashboards  
+🎓 M.S. in Business Analytics (UK) | 🎓 Strategic Planning & Data Background  
+📈 3+ years experience managing tech projects, operating CRM platform, automating reporting flows, and building user-centric dashboards  
 💡 Previously led internal CRM initiatives at Samsung — onboarded 2 new divisions, reduced reporting errors by 25%, and built forecasting dashboards  
 🌐 World citizen: lived/worked in 🇺🇸 🇰🇷 🇨🇦 🇶🇦 🇦🇺 🇬🇧  
-🎨 Hobbies: Interior design, global cuisine, cost-effective fashion, fitness, and 🏌️‍♀️ beginner golfer!
+🎨 Hobbies: Interior design, cooking, yoga & fitness, and 🏌️‍♀️ beginner golfer!
 
 <br>
 
@@ -41,10 +42,9 @@
 <br>
 
 
-## 📫 Contact Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://hpark3.github.io)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-✉️ Email: your.email@example.com
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://hpark3.github.io)  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  | ✉️ Email: hyeranp.dev@gmail.com
 
-<br>
+</div>
