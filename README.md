@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Helen Park</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!%20I'm%20Helen%20Park" alt="welcome" />
+</h1>
 
 <p align="center">
   <b>Business Systems Analyst | CRM Ops | KPI Dashboards | UX-Driven Problem Solver</b><br>
@@ -21,13 +23,10 @@
 
 <br>
 
-## 🧠 About Me
 
-🎓 M.S. in Business Analytics (UK) | 🎓 Strategic Planning & Data Background  
-📈 3+ years of USA based experience in tech project management, CRM system operation, data analysis — combined with 2 years of experience in strategic planning and international business development in Korea.  
-💡 Previously led internal CRM initiatives at Samsung — onboarded 2 new divisions, reduced reporting errors by 25%, and built forecasting dashboards  
-🌐 World citizen: lived/worked in 🇺🇸 🇰🇷 🇨🇦 🇶🇦 🇦🇺 🇬🇧  
-🎨 Hobbies: Interior design, cooking, yoga & fitness, and 🏌️‍♀️ beginner golfer!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpark3&layout=compact&theme=dark&title_color=ff69b4&hide_border=true" alt="Most Used Languages" />
+</p>
 
 <br>
 
