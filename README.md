@@ -31,13 +31,7 @@
 
 <br>
 
-## 💼 Key Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [📘 Samsung CRM System](https://hpark3.github.io/#/projects/samsung-crm) | Enterprise CRM for field teams with KPI dashboards, issue logging, and cross-division coordination | SQL · React · Excel · UX |
-| [📚 Wordvice AI Proofreader](https://hpark3.github.io/#/projects/wordvice) | Rule-based academic English checker for grammar/tone improvement | JS · Linguistic Rule Engine |
-| [🕵🏻‍♀️ Dark Web Marketplaces (Thesis)](https://hpark3.github.io/#/projects/thesisproject) | NLP-based analysis of cybercrime trends using topic modeling | Python · LDA · Gensim · WordCloud |
 
 <br>
 
