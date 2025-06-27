@@ -24,7 +24,7 @@
 ## 🧠 About Me
 
 🎓 M.S. in Business Analytics (UK) | 🎓 Strategic Planning & Data Background  
-📈 3+ years experience managing tech projects, operating CRM platform, automating reporting flows, and building user-centric dashboards  
+📈 3+ years of USA based experience in tech project management, CRM system operation, data analysis — combined with 2 years of experience in strategic planning and international business development in Korea.  
 💡 Previously led internal CRM initiatives at Samsung — onboarded 2 new divisions, reduced reporting errors by 25%, and built forecasting dashboards  
 🌐 World citizen: lived/worked in 🇺🇸 🇰🇷 🇨🇦 🇶🇦 🇦🇺 🇬🇧  
 🎨 Hobbies: Interior design, cooking, yoga & fitness, and 🏌️‍♀️ beginner golfer!
@@ -39,6 +39,6 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://hpark3.github.io)  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  | ✉️ Email: hyeranp.dev@gmail.com
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://hpark3.github.io/portfolio-2025/)  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  | ✉️ Email: hyeranp.dev@gmail.com
 
 </div>
