@@ -8,7 +8,7 @@
   <strong>Hyeran Helen Park</strong> · @hpark3 🌸 <strong>London, United Kingdom</strong><br>
   📊 <strong>Business Systems Analyst</strong><br>
   Enterprise Platform Support &nbsp;·&nbsp; CRM & Ops &nbsp;·&nbsp; Cross-Functional Delivery &nbsp;·&nbsp; Korean–English Bilingual<br>
-  <em>4+ years bridging enterprise clients and technical teams across Korea, the US, and the UK.</em>
+  <em>4+ years bridging enterprise clients and technical teams across Korea and the US.</em>
 </p>
 
 <br>
