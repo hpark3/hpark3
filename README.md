@@ -6,7 +6,7 @@
 
 <!-- Basic Profile -->
 <p align="center">
-  <strong>Helen Park's GitHub</strong> <em>@hpark3</em> 🌸 <strong><em>Plano, TX, USA</em></strong><br>
+  <strong>Helen Park's GitHub</strong> <em>@hpark3</em> 🌸 <strong><em>London, United Kingdom</em></strong><br>
   📊 <strong>Business Systems Analyst</strong><br>
   CRM Ops | UX-Driven Problem Solving | KPI Dashboards | Data-Backed Insights<br>
   <i>I turn complex business needs into intuitive, scalable digital systems.</i>
