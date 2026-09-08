@@ -28,10 +28,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpark3&layout=compact&theme=dark&title_color=ff69b4&hide_border=true" alt="Most Used Languages" />
-</p>
-
 ---
 
 ## 🗂 Projects
@@ -39,7 +35,7 @@
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **JobLinker.ai** | AI-assisted job application workflow tool — built and shipped as product owner, coordinating specialised LLM agents through defined task routing, acceptance criteria, and issue-resolution workflows | React · LLM Agent Orchestration | [Live ↗](https://joblinkerai.vercel.app) |
-| **ViewerSaver** | Captures view-only documents (Canva, slide decks) locally via browser automation and exports as PDF; includes staged review, error handling, and a controlled release workflow | React · FastAPI · Playwright · Python | [Live ↗](https://viewer-saver.vercel.app) · [Repo ↗](https://github.com/hpark3/viewer-saver) |
+| **ViewerSaver** | Browser automation tool for document capture and PDF export; features a staged review pipeline, structured error handling, and a controlled release workflow | React · FastAPI · Playwright · Python | [Live ↗](https://viewer-saver.vercel.app) · [Repo ↗](https://github.com/hpark3/viewer-saver) |
 
 ---
 
