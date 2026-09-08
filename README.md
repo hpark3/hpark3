@@ -8,7 +8,7 @@
   <strong>Hyeran Helen Park</strong> · @hpark3 🌸 <strong>London, United Kingdom</strong><br>
   📊 <strong>Business Systems Analyst</strong><br>
   Enterprise Platform Support &nbsp;·&nbsp; CRM & Ops &nbsp;·&nbsp; Cross-Functional Delivery &nbsp;·&nbsp; Korean–English Bilingual<br>
-  <em>4+ years bridging enterprise clients and technical teams across Korea and the US.</em>
+  <em>4+ years bridging business users, enterprise clients and technical teams across Korea and the US.</em>
 </p>
 
 <br>
@@ -36,8 +36,8 @@
 |---------|-------------|-------|-------|
 | **JobLinker.ai** | AI-assisted job application workflow tool — built and shipped as product owner, coordinating specialised LLM agents through defined task routing, acceptance criteria, and issue-resolution workflows | React · LLM Agent Orchestration | [Live ↗](https://joblinkerai.vercel.app) |
 | **ViewerSaver** | Browser automation tool for document capture and PDF export; features a staged review pipeline, structured error handling, and a controlled release workflow | React · FastAPI · Playwright · Python | [Live ↗](https://viewer-saver.vercel.app) · [Repo ↗](https://github.com/hpark3/viewer-saver) |
-
----
+| **MSc Thesis**   | Social media analytics research on UK food supply chains, using Twitter data, sentiment analysis, and text mining to identify consumer-level waste drivers and supply chain recommendations | Research · Text Mining · Sentiment Analysis · Java | [Repo ↗](https://github.com/hpark3/MSc-thesis-2018) |
+<br>
 
 <div align="center">
 
